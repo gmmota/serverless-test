@@ -1,0 +1,26 @@
+{
+  "name": "serverless-test",
+  "version": "1.0.0",
+  "description": "serverless demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmmota/serverless-test.git"
+  },
+  "keywords": [
+    "serverless",
+    "app"
+  ],
+  "author": "Gesiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmmota/serverless-test/issues"
+  },
+  "homepage": "https://github.com/gmmota/serverless-test#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
